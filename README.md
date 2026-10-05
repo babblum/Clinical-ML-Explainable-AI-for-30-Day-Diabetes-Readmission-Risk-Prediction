@@ -1,0 +1,2 @@
+# Clinical-ML-Explainable-AI-for-30-Day-Diabetes-Readmission-Risk-Prediction
+Use this — it is under 350 characters:  > Explainable Clinical ML project predicting 30-day hospital readmission in patients with diabetes using Logistic Regression, Random Forest, and XGBoost. Includes data preprocessing, feature engineering, ROC-AUC, precision/recall, calibration, SHAP explainability, and clinical risk analysis.
